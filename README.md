@@ -1,4 +1,4 @@
-![image](https://github.com/IceIxI/TelegramShop/assets/100762987/8db0c1c4-c69e-4368-a7d0-c3f44ea5d883)
+![image](https://github.com/IceIxI/TelegramShop/assets/100762987/7bd40c5a-9f4e-498c-aefe-b9cd38ceabb6)
 
 It's a telegram bot for selling various products. If you want, it can be easily adapted to your own company. 
 
